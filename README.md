@@ -1,10 +1,12 @@
-# StackOverFlowQA_Analysis [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-360/) ![Python 3.7](https://img.shields.io/badge/Last%20Updated-18th%20Aug-green) ![Python 3.7](https://img.shields.io/badge/Progres-On%20Hold-yellow) ![Python 3.7](https://img.shields.io/github/contributors/yashpatel91/poisonous_mushroom_classification)
+# StackOverFlowQA_Analysis [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-360/) ![Python 3.7](https://img.shields.io/github/contributors/YashPatel91/StackOverFlowQA_Analysis)
 ## Description 
 This paper is aimed at analysis of question answer site ‘Stack Overflow’. This analysis is aimed at finding out why stack overflow achieved and maintained its reputation in
 programming question and answer forums. This analysis will provide a deeper
 understanding of discrepancy of the expert user and new users
 along with analysis of its working over the years from 2008 to
 2010.
+
+
 ## Table of Contents
 
 1. [Installation](#Installation)
