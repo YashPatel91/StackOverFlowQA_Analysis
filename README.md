@@ -39,7 +39,11 @@ Step 3: Run the snippets from top to down for the respective questions to get
 ![python](question_3.PNG)
 
 ### Question 4: Which tags are associated with fast and slow response time?
-![python](question_4.PNG)
+#### Fast
+![python](question_4_fast.PNG)
+
+#### Slow
+![python](question_4_slow.PNG)
 
 ### Question 5: How to calculate reputation of users?
 ![python](question_5.PNG)
