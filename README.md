@@ -10,7 +10,7 @@ along with analysis of its working over the years from 2008 to
 ## Table of Contents
 
 1. [Running Steps](#Running_Steps)
-
+2. [Questions](#Questions)
 5. [Acknowledgements](#Acknowledgements)
 6. [Support](#Support)
 7. [License](#License)
@@ -27,6 +27,22 @@ along with analysis of its working over the years from 2008 to
 ### Running Steps
 tep 1: After setting the environment make sure that csv files and the ipynb files are in same folder. Step 2: Open the file of the question you wish to run
 Step 3: Run the snippets from top to down for the respective questions to get 
+
+## Questions
+### QUESTION 1 : What is the distribution of answers and thread lengths for all the questions?
+![python](readme_images/question_1.PNG)
+
+### Question 2 : How long do users wait to recieve answers?
+![python](readme_images/question_2.PNG)
+
+### Question 3: How did this rapid answer time emerge over the site's history?
+![python](readme_images/question_3.PNG)
+
+### Question 4: Which tags are associated with fast and slow response time?
+![python](readme_images/question_4.PNG)
+
+### Question 5: How to calculate reputation of users?
+![python](readme_images/question_5.PNG)
 
 ## Acknowledgements
 I would like to express my gratitude to Lakehead University for providing me with an opportunity to do this research. I would also like to express my thanks to Dr. Trevor Tomesh for guiding me through my journy of writing this research paper and help me get better understanding of github and its uses.
